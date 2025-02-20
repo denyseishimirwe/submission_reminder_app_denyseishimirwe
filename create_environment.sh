@@ -33,10 +33,10 @@ student, assignment, submission status
 Chinemerem, Shell Navigation, not submitted
 Chiagoziem, Git, submitted
 Chris, Shell Navigation, not submitted
-Karake, Shell Basics, submitted
-Prince, Shell Navigation, not submitted
-Timothee, Shell Navigation, not submitted
-Nazira, Shell Navigation, not submitted
+Mulima, Shell Basics, submitted
+Beste, Shell Navigation, not submitted
+Faith, Shell Navigation, not submitted
+Mutunzi, Shell Navigation, not submitted
 Denyse, Shell Navigation, submitted
 EOF
 
